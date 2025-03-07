@@ -1,5 +1,5 @@
 # Magic Oracle 🔮  
-**Magic Oracle** is a simple Java application that answers your questions with "Yes" or "No" based on a deterministic algorithm. It ensures that asking the same question always results in the same answer.
+**Magic Oracle** is a simple Java application that answers your questions with "Yes" or "No".
 
 ## 🚀 Features  
 - ✅ Supports **English and Russian** languages  
